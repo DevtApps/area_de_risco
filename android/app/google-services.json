@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "378476917132",
+    "project_id": "areaderisco-1fedd",
+    "storage_bucket": "areaderisco-1fedd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378476917132:android:ece5b6d93513a4fe0aa6a9",
+        "android_client_info": {
+          "package_name": "com.areaderisco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378476917132-mrcoe839l7qhsv4uqbu0j95n15n1lgis.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.areaderisco",
+            "certificate_hash": "c8455b60541bf702fa8335db2e6c61d54f760244"
+          }
+        },
+        {
+          "client_id": "378476917132-tnkjbd5h0ihtk315i7678ui8mg4biggo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJXowsLVVSbf7IzZXspzfFJeQxHreZ6tY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378476917132-tnkjbd5h0ihtk315i7678ui8mg4biggo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
